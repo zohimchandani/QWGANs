@@ -1,3 +1,1 @@
 # qWGANs-
-# qWGANs-
-# qWGANs-
